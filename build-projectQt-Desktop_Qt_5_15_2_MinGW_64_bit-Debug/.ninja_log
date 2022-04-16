@@ -1,0 +1,24 @@
+# ninja log v5
+10	259	6328662148774050	projectQt_autogen/timestamp	97de86179a4c5b1
+259	2504	6328662171095989	CMakeFiles/projectQt.dir/projectQt_autogen/mocs_compilation.cpp.obj	67a3c7c361351ff4
+3117	3584	6328662181856632	projectQt.exe	73649cfea4ebcee4
+12	2840	6327857900888256	CMakeFiles/projectQt.dir/main.cpp.obj	c43ff49673c32e4
+1190	2470	6327582462119527	CMakeFiles/projectQt.dir/TemplateBasedVectorDictionary/TemplateBasedVectorDictionary.cpp.obj	f7318e1ecfe25c78
+1390	2702	6327582464865985	CMakeFiles/projectQt.dir/LinkedListBasedDic/LinkedDictionary.cpp.obj	d1ceebbc10502dbc
+275	3117	6328662177225900	CMakeFiles/projectQt.dir/mainwindow.cpp.obj	2ae7bca2fedaf9f9
+1347	2538	6327582462119527	CMakeFiles/projectQt.dir/HashTableDictionary/HashTableDictionary.cpp.obj	6f369d959aee1efe
+1230	2572	6327582462813013	CMakeFiles/projectQt.dir/TST/TST.cpp.obj	e166ed9d6d06ad6c
+1432	2752	6327582465381544	CMakeFiles/projectQt.dir/VectorBasedEDictionary/VectorBasedEDictionary.cpp.obj	ee2513f87e261286
+1305	2878	6327582466723129	CMakeFiles/projectQt.dir/Trie/Trie.cpp.obj	7f810bd29d72d8e
+11	1144	6327852907740255	CMakeFiles/projectQt.dir/DictionaryProvider/DictionaryProvider.cpp.obj	28b492ce3f3b8f3
+149	2559	6330333537154317	CMakeFiles/projectQt.dir/mainwindow.cpp.obj	2ae7bca2fedaf9f9
+2560	4582	6330333557408458	projectQt.exe	73649cfea4ebcee4
+7	1584	6330333710984469	CMakeFiles/projectQt.dir/mainwindow.cpp.obj	2ae7bca2fedaf9f9
+1584	1966	6330333714701400	projectQt.exe	73649cfea4ebcee4
+7	1552	6330333850318568	CMakeFiles/projectQt.dir/mainwindow.cpp.obj	2ae7bca2fedaf9f9
+1552	1872	6330333853423680	projectQt.exe	73649cfea4ebcee4
+17	666	6330335348048450	CMakeFiles/projectQt.dir/DictionaryProvider/DictionaryProvider.cpp.obj	28b492ce3f3b8f3
+6	1294	6330335354247919	CMakeFiles/projectQt.dir/main.cpp.obj	c43ff49673c32e4
+1294	1608	6330335357326385	projectQt.exe	73649cfea4ebcee4
+7	1473	6330337042184584	CMakeFiles/projectQt.dir/mainwindow.cpp.obj	2ae7bca2fedaf9f9
+1474	1805	6330337045567477	projectQt.exe	73649cfea4ebcee4
